@@ -1,13 +1,13 @@
 from enum import auto
 import tweepy
-ak = "rKWYccMhW70w6XGIBWeyJJVeA"
+ak = "000"
 
-aks = "gxumWlK2UoKUNeVRXrefpLN8TLBPHS4Z2wpw6fUBrRv5cpD6jq"
+aks = "000"
 
 
-at = '1883243213915602944-D03o5F1gLIjiZFkHpjUpliL74q30lG'
+at = '000'
 
-ats = 'fHjX8lM0CZ4x3leXrO15ttavyIzxG8WNBENtjJ9nReqyK'
+ats = '000'
 
 Oauth = OAuth()
 apicall = tweepy.API(Oauth)
