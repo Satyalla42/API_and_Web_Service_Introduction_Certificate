@@ -1,4 +1,7 @@
-# API Integration for Gmail and Twitter Using Python
+
+# 🐦 Twitter API & ✉️ Gmail API Integration Using Python
+
+
 
 This project demonstrates the use of Python to interact with the Gmail API and Twitter API through RESTful services. It includes sample code for both retrieving Gmail messages and posting, retrieving, and deleting tweets using the tweepy library.
 
